@@ -4,5 +4,5 @@
   "update_url": "https://example.com/app.apk",
   "website": "https://www.yaccinetv.download/",
   "change_log": "1. Bug fixes\n2. Performance improved",
-  "is_force_update": ture
+  "is_force_update": true
 }
