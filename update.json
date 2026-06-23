@@ -3,5 +3,7 @@
   "latest_version_name": "1.0",
   "apk_url": "https://github.com/ayaanahad/ktv/releases/download/v5.0.6/app-release-v5.0.6.apk",
   "update_message": "অ্যাপের নতুন ভার্সন এসেছে! এখনই আপডেট করে নিন।",
-  "release_notes": "• বাগ ফিক্স\n• পারফরম্যান্স উন্নত"
+  "release_notes": "• বাগ ফিক্স\n• পারফরম্যান্স উন্নত",
+  "ad_url": "https://example-ad.com",
+  "is_force_update": false
 }
